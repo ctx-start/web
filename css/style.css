@@ -66,7 +66,7 @@ li{
 	-webkit-transform:rotateX(90deg) translateZ(50px);
 }
 .minbox li:nth-child(5){
-	background: url(../img/05.png) no-repeat 0 0;
+	background: url(../img/5.png) no-repeat 0 0;
 	-webkit-transform:rotateY(-90deg) translateZ(50px);
 }
 .minbox li:nth-child(6){
